@@ -1,0 +1,8 @@
+*.bkp
+*.log
+*.op.raw
+*.raw
+*.net
+*.plt
+.ipynb_checkpoints
+.idea
