@@ -6,3 +6,4 @@
 *.plt
 .ipynb_checkpoints
 .idea
+*.slx.original
